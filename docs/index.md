@@ -2,4 +2,4 @@
 
 試験
 
-![イラスト屋](./sick_shisshin_baby.png  "ポップアップ文字") 
+![イラスト屋](./sick_shisshin_baby.png  "きもい") 
